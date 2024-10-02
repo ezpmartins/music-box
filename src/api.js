@@ -1,6 +1,7 @@
 import axios from "axios";
+
 const api = axios.create({
-    baseURL: 'https://66d62af9f5859a7042688b2c.mockapi.io/music-box'
+  baseURL: process.env.REACT_APP_API_URL,
 });
 
 export default api;
