@@ -1,5 +1,3 @@
-![music-box-banner](https://user-images.githubusercontent.com/53584199/159744671-420c18b0-5a06-4fd7-a8c8-7a604ec07dd8.png)
-
 # Music Box: Uma Aplicação Front-End em React para Exploração Musical
 
 ![Badge](https://img.shields.io/badge/Code-react-0366d6?&logo=react) 
@@ -48,8 +46,4 @@ Para começar com o **Music Box**, siga estes passos:
 
 ## Concepção do Projeto
 ### Criado por:
-- @joaopedpaula (joao.paula@sptech.school)
-- @braaaaaaaga (braian.braga@sptech.school)
-- @reisrb (rafael.reis@sptech.school)
-- @miniguiti (giuliana.franca@sptech.school)
-- @fernandacaramico (fernanda.caramico@sptech.school)
+- @ezpmartins (enzo.martins@sptech.school)
