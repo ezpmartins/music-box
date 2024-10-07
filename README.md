@@ -1,5 +1,3 @@
-![music-box-banner](https://user-images.githubusercontent.com/53584199/159744671-420c18b0-5a06-4fd7-a8c8-7a604ec07dd8.png)
-
 # Music Box: Uma Aplicação Front-End em React para Exploração Musical
 
 ![Badge](https://img.shields.io/badge/Code-react-0366d6?&logo=react) 
@@ -19,12 +17,6 @@ O projeto enfatiza os seguintes aspectos e metodologias técnicas avançadas:
 - **Roteamento e Navegação**: Usar o React Router para uma navegação suave dentro da aplicação, permitindo a construção de uma aplicação de página única (SPA) com múltiplas visões.
 - **Integração com API**: Realizar operações CRUD através da integração com uma API Spring Boot e MockAPI, permitindo a gestão dinâmica de dados e interação dentro da aplicação.
   
-<img width="100%" src="https://github.com/euBraianBraga/music-box-3-adsa-2024-1/assets/53722984/c54101e5-f2db-4a50-bdfb-306f181445fe"/>
-<img width="50%" src="https://github.com/euBraianBraga/music-box-3-adsa-2024-1/assets/53722984/8bbe2512-c026-4b78-9c19-0ba386e193e1"/> 
-<img width="49%" src="https://github.com/euBraianBraga/music-box-3-adsa-2024-1/assets/53722984/1584ea04-fbfd-460e-b190-e70bad5a2321"/> 
-<img width="50%" src="https://github.com/euBraianBraga/music-box-3-adsa-2024-1/assets/53722984/38c567ba-57aa-4c4b-af10-335c320a00e4"/> 
-<img width="49%" src="https://github.com/euBraianBraga/music-box-3-adsa-2024-1/assets/53722984/df35852e-8830-4d8f-9122-5794e063d3eb"/> 
-
 
 ## Layout e Design
 O layout do projeto é cuidadosamente elaborado para oferecer uma experiência de usuário intuitiva e envolvente, apresentando:
@@ -48,8 +40,4 @@ Para começar com o **Music Box**, siga estes passos:
 
 ## Concepção do Projeto
 ### Criado por:
-- @joaopedpaula (joao.paula@sptech.school)
-- @braaaaaaaga (braian.braga@sptech.school)
-- @reisrb (rafael.reis@sptech.school)
-- @miniguiti (giuliana.franca@sptech.school)
-- @fernandacaramico (fernanda.caramico@sptech.school)
+- @ezpmartins (enzo.martins@sptech.school)
